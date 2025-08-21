@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Environment/LowPoly Mysterious Dungeon/Scenes/Mysterious Dungeon.unity
+    guid: 99870f4b5e6f35440837b8379b6997b9
+  - enabled: 1
+    path: Assets/Environment/LowPoly Mysterious Dungeon/Scenes/1stTo2nd.unity
+    guid: 4d185caf70d1f47bcae89be19adffeeb
+  - enabled: 1
+    path: Assets/Environment/boss_of_war/BossOfWar_continuous_line.unity
+    guid: d2c8bcce1a1d1084ea9434a9bc04ef5a
+  m_configObjects: {}
