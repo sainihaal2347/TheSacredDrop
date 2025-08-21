@@ -44,7 +44,7 @@ The world is running out of clean water, and it's up to you to help! Journey thr
 - Designed for all ages, featuring high-contrast visuals, readable fonts, and simple tap/swipe gestures for ease of use.
 
 ## Credits
-- Game Design & Programming: Team [insert names]
+- Game Design & Programming: Team [Vishnu Vardhan, Sai Nihaal]
 - Artwork: Blender contributors
 - Backend/API: MongoDB & Gemini API
 
